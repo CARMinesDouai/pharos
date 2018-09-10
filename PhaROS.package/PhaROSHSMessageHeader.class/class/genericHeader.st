@@ -1,0 +1,3 @@
+verification
+genericHeader
+	^ self new .

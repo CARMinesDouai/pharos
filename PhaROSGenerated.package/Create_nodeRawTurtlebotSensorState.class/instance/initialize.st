@@ -1,0 +1,40 @@
+as yet unclassified
+initialize
+	super initialize.
+	 self header: Std_msgsHeader new. 
+	 self bumps_wheeldrops: 0. 
+	 self wall: false. 
+	 self cliff_left: false. 
+	 self cliff_front_left: false. 
+	 self cliff_front_right: false. 
+	 self cliff_right: false. 
+	 self virtual_wall: false. 
+	 self motor_overcurrents: 0. 
+	 self dirt_detector_left: 0. 
+	 self dirt_detector_right: 0. 
+	 self remote_opcode: 0. 
+	 self buttons: 0. 
+	 self distance: 0. 
+	 self angle: 0. 
+	 self charging_state: 0. 
+	 self voltage: 0. 
+	 self current: 0. 
+	 self temperature: 0. 
+	 self charge: 0. 
+	 self capacity: 0. 
+	 self wall_signal: 0. 
+	 self cliff_left_signal: 0. 
+	 self cliff_front_left_signal: 0. 
+	 self cliff_front_right_signal: 0. 
+	 self cliff_right_signal: 0. 
+	 self user_digital_inputs: 0. 
+	 self user_analog_input: 0. 
+	 self charging_sources_available: 0. 
+	 self oi_mode: 0. 
+	 self song_number: 0. 
+	 self song_playing: false. 
+	 self number_of_stream_packets: 0. 
+	 self requested_velocity: 0. 
+	 self requested_radius: 0. 
+	 self requested_right_velocity: 0. 
+	 self requested_left_velocity: 0. 

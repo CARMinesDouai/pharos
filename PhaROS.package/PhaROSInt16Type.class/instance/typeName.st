@@ -1,0 +1,3 @@
+initializing
+typeName 
+	^ 'int16'

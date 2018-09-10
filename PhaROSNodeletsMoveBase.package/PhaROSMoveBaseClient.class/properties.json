@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSNodeletsMoveBase",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"package",
+		"currentPosition",
+		"goals",
+		"movebaseGoal",
+		"reachedGoals",
+		"cancelGoal"
+	],
+	"name" : "PhaROSMoveBaseClient",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+A PhaROSFloat32Type is Float 32 bits type

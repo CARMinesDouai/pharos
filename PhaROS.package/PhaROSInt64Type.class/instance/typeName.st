@@ -1,0 +1,3 @@
+initialize
+typeName 
+	^ 'int64'

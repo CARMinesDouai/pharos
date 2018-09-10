@@ -1,0 +1,3 @@
+converting
+asPose
+	^self center 

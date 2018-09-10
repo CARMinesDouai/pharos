@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "pharos 6/18/2014 16:55",
+	"super" : "Object",
+	"category" : "ConfigurationOfPhaROS",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LastVersionLoad"
+	],
+	"instvars" : [
+		"project"
+	],
+	"name" : "ConfigurationOfPhaROS",
+	"type" : "normal"
+}

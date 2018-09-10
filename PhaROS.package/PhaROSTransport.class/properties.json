@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROS-Kernel-InternalNodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"master",
+		"node",
+		"comm",
+		"blacklist"
+	],
+	"name" : "PhaROSTransport",
+	"type" : "normal"
+}

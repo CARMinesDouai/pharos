@@ -1,0 +1,3 @@
+*PhaROSCommander
+isAbstract
+	^ true

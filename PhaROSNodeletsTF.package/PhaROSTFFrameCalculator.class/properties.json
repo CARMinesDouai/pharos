@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSNodeletsTF",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sourceToTopQuaternion",
+		"sourceToTopVector",
+		"targetToTopQuaternion",
+		"targetToTopVector",
+		"resultVector",
+		"resultQuaternion"
+	],
+	"name" : "PhaROSTFFrameCalculator",
+	"type" : "normal"
+}

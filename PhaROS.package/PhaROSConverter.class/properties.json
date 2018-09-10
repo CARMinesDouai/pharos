@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PhaROS-TopicHandlers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"convertTo",
+		"converter"
+	],
+	"name" : "PhaROSConverter",
+	"type" : "normal"
+}

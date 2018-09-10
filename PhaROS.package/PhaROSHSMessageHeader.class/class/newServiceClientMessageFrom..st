@@ -1,0 +1,3 @@
+instance creation decoding
+newServiceClientMessageFrom: aStream
+	^PhaROSHSMessageDecoder decodeServiceClientMessage: aStream.

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSHSTypedHeader",
+	"category" : "PhaROS-Network-Tcp-Messages",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhaROSHSSubscriberHeader",
+	"type" : "normal"
+}

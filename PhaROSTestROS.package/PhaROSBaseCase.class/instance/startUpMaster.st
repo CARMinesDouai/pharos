@@ -1,0 +1,3 @@
+actions
+startUpMaster
+	PhaROSSystemInfo instance launchExternalROSMaster

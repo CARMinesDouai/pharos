@@ -1,0 +1,5 @@
+tests
+testSerialize
+	
+		^ super baseSerialize.
+		

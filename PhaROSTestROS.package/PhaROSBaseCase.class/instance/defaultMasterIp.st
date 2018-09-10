@@ -1,0 +1,3 @@
+default parameters
+defaultMasterIp
+	^ 'localhost'

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSDelegateNode",
+	"category" : "PhaROS-Kernel-InternalNodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"soul"
+	],
+	"name" : "PhaROSBlockNode",
+	"type" : "normal"
+}

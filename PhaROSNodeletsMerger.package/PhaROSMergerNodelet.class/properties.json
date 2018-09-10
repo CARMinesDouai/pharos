@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/23/2013 10:38",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsMerger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mergers"
+	],
+	"name" : "PhaROSMergerNodelet",
+	"type" : "normal"
+}

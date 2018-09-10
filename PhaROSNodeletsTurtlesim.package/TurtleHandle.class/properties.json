@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSNodeletsTurtlesim",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"velocityOut",
+		"color",
+		"pose",
+		"processHandler",
+		"turtlesimNodelet"
+	],
+	"name" : "TurtleHandle",
+	"type" : "normal"
+}

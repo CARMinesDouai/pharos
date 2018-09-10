@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "LucFabresse 5/10/2015 12:31",
+	"super" : "Object",
+	"category" : "PhaROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhaROSSystem",
+	"type" : "normal"
+}

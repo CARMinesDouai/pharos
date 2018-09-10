@@ -1,0 +1,3 @@
+serializing
+new 
+	^ self.

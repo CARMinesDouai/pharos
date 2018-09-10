@@ -1,0 +1,3 @@
+instance creation decoding
+newPublisherMessageFrom: byteArray
+	^PhaROSHSMessageDecoder decodePublisherMessage: byteArray.

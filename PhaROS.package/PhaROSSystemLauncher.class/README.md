@@ -1,0 +1,1 @@
+A PhaROSSystemLauncher is facade for executing ros commands in the host machine

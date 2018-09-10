@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "pharos 5/3/2015 08:27",
+	"super" : "Object",
+	"category" : "PhaROS-NodeControllers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"master"
+	],
+	"name" : "PhaROSSystemController",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+A PhaROSConstantDefinition  Is an constant usable in the type that is part of. It has name, type and value.

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSPackage",
+	"category" : "PhaROSPackage_TFSplitter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Tf_phlitterPackage",
+	"type" : "normal"
+}

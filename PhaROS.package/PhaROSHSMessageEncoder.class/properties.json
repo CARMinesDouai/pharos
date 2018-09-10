@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROS-Network-Tcp-Encoding",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tcpmessage"
+	],
+	"name" : "PhaROSHSMessageEncoder",
+	"type" : "normal"
+}

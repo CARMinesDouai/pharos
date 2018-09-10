@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 5/15/2013 12:30",
+	"super" : "Object",
+	"category" : "PhaROS-Network-Tcp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"type",
+		"value"
+	],
+	"name" : "PhaROSPacket",
+	"type" : "normal"
+}

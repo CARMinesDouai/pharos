@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROS-Network-XmlRpc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"serve",
+		"name",
+		"owner",
+		"typeID",
+		"type"
+	],
+	"name" : "PhaROSServiceExposer",
+	"type" : "normal"
+}

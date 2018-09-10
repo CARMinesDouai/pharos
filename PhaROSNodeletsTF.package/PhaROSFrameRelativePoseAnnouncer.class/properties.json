@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSTopicFlux",
+	"category" : "PhaROSNodeletsTF",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fromFrame",
+		"toFrame"
+	],
+	"name" : "PhaROSFrameRelativePoseAnnouncer",
+	"type" : "normal"
+}

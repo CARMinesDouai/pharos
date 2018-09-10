@@ -1,0 +1,2 @@
+I am a nodelet that reduces the change to robot's driver node from consuming feedback messages from move_base.
+Then, this node filters received messages from PhaROSMoveBaseClient realFeedbackTopic to send just when needed. Check relay: method for more details.

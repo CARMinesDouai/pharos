@@ -1,0 +1,6 @@
+as yet unclassified
+rosTypeDefinition 
+^' actionlib_tutorials/FibonacciActionGoal action_goal
+ actionlib_tutorials/FibonacciActionResult action_result
+ actionlib_tutorials/FibonacciActionFeedback action_feedback
+'

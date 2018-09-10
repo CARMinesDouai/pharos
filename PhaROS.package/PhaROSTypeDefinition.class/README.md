@@ -1,0 +1,1 @@
+A PhaROSTypeDefinition is a reification of set of fields and constants. 

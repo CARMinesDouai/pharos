@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/22/2013 16:09",
+	"super" : "PhaROSConfigurableErrorManagement",
+	"category" : "PhaROS-TopicHandlers",
+	"classinstvars" : [
+		"defaultAdapter",
+		"defaultConditional"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"adapter",
+		"condition",
+		"lastTimeStamp",
+		"handler"
+	],
+	"name" : "PhaROSTopicFlux",
+	"type" : "normal"
+}

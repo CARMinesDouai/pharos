@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSExternalNode",
+	"category" : "PhaROS-Kernel-ExternalNodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"msg",
+		"stream",
+		"tries",
+		"channel",
+		"xmlurl",
+		"process"
+	],
+	"name" : "PhaROSExternalPublisherNode",
+	"type" : "normal"
+}

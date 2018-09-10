@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsAction",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"clients",
+		"servers"
+	],
+	"name" : "PhaROSActionNodelet",
+	"type" : "normal"
+}

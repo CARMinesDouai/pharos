@@ -1,0 +1,1 @@
+A PhaROSPosition is a 3 dimension position representation

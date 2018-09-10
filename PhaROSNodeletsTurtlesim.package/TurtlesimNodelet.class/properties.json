@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsTurtlesim",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TurtlesimNodelet",
+	"type" : "normal"
+}

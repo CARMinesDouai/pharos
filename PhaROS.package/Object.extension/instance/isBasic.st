@@ -1,0 +1,3 @@
+*PhaROS
+isBasic
+	^ true.

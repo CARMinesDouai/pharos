@@ -1,0 +1,1 @@
+A PhaROSQuaternion is representation of orientation with imaginary numbers. 

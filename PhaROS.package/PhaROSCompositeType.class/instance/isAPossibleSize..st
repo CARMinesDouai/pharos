@@ -1,0 +1,3 @@
+serializing
+isAPossibleSize: aSize
+	^ true.

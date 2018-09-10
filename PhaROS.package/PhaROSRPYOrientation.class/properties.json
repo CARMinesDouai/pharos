@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PhaROS-Util-Geometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"roll",
+		"pitch",
+		"yaw"
+	],
+	"name" : "PhaROSRPYOrientation",
+	"type" : "normal"
+}

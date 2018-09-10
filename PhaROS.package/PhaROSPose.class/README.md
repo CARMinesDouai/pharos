@@ -1,0 +1,1 @@
+A PhaROSPose is a position of 3d and a 6DF orientation related.

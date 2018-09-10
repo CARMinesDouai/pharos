@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSNodeletsMerger",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"outgoing",
+		"transformation",
+		"messages",
+		"this",
+		"that",
+		"condition",
+		"thisSync",
+		"thatSync"
+	],
+	"name" : "PhaROSMerger",
+	"type" : "normal"
+}

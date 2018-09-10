@@ -1,0 +1,1 @@
+A PhaROSRPYOrientation is Roll pitch yaw orientation representation.

@@ -1,0 +1,3 @@
+ConfigurationOfPhaROS loadStable.
+
+ConfigurationOfPhaROS loadBleedingEdge.

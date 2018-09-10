@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSInfrastructure-ROSLaunch",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"value"
+	],
+	"name" : "PhaROSYamlItem",
+	"type" : "normal"
+}

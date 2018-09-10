@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "pharos 11/17/2014 12:03",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSPackage_TFSplitter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tfPublishers"
+	],
+	"name" : "Tf_phlitterNodelets",
+	"type" : "normal"
+}

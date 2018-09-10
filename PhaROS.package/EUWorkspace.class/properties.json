@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "pharos 7/9/2014 14:24",
+	"super" : "Object",
+	"category" : "PhaROS-Util",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EUWorkspace",
+	"type" : "normal"
+}

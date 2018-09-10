@@ -1,0 +1,3 @@
+converting
+nanoSeconds
+	^ timestamp nanoSecond.

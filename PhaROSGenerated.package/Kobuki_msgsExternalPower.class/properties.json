@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSValue",
+	"category" : "PhaROSGenerated",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Kobuki_msgsExternalPower",
+	"type" : "normal"
+}

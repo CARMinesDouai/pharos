@@ -1,0 +1,3 @@
+stdio
+stdout 
+	^  FileStream stdout

@@ -1,0 +1,1 @@
+This class manage a tcp server related with a node. Here there is just the Handshake and the initialization routine for a new socket.

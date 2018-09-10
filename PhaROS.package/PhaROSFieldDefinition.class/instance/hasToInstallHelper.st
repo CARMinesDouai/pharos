@@ -1,0 +1,3 @@
+converting
+hasToInstallHelper
+	^ type isCollection

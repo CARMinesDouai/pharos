@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "johanfabry 3/25/2015 20:53",
+	"super" : "TestResource",
+	"category" : "PhaROSTestROS-SimpleAPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRSimpleAPIResource",
+	"type" : "normal"
+}

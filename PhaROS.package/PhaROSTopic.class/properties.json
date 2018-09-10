@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "pharos 5/3/2015 07:52",
+	"super" : "Object",
+	"category" : "PhaROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"type",
+		"typeFactory",
+		"channels"
+	],
+	"name" : "PhaROSTopic",
+	"type" : "normal"
+}

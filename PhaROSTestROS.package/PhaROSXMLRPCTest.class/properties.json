@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSBaseCase",
+	"category" : "PhaROSTestROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expectedSystemState"
+	],
+	"name" : "PhaROSXMLRPCTest",
+	"type" : "normal"
+}

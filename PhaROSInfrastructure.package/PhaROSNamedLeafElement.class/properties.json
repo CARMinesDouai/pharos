@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSAbstractElement",
+	"category" : "PhaROSInfrastructure-ROSLaunch",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"nodeName"
+	],
+	"name" : "PhaROSNamedLeafElement",
+	"type" : "normal"
+}

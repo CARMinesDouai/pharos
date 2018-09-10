@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "PhaROSError",
+	"category" : "PhaROS-Error",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"response"
+	],
+	"name" : "PhaROSXmlRpcInvocationException",
+	"type" : "normal"
+}

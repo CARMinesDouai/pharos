@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/22/2013 11:59",
+	"super" : "Object",
+	"category" : "PhaROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"MasterInstances"
+	],
+	"instvars" : [
+		"masterXmlRpc",
+		"topics",
+		"nodes",
+		"services",
+		"serviceExposers",
+		"parameters"
+	],
+	"name" : "PhaROSMaster",
+	"type" : "normal"
+}

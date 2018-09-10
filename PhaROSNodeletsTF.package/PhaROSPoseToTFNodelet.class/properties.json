@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsTF",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writer",
+		"frame"
+	],
+	"name" : "PhaROSPoseToTFNodelet",
+	"type" : "normal"
+}

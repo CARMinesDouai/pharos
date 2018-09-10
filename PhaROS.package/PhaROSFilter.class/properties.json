@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PhaROS-TopicHandlers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"unaryMessage"
+	],
+	"name" : "PhaROSFilter",
+	"type" : "normal"
+}

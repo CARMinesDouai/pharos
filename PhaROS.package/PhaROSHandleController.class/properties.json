@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "pharos 5/3/2015 08:27",
+	"super" : "PhaROSSystemController",
+	"category" : "PhaROS-NodeControllers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"node",
+		"handleName",
+		"nodelets",
+		"tcpPort",
+		"xmlPort",
+		"handleNamespace"
+	],
+	"name" : "PhaROSHandleController",
+	"type" : "normal"
+}

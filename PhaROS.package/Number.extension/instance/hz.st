@@ -1,0 +1,3 @@
+*PhaROS
+hz
+	^ self fromRateToDelay.

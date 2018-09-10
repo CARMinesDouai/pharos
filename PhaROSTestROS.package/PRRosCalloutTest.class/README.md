@@ -1,0 +1,1 @@
+These tests check the fundamentals of the API: Can we use the ROS command line utilities and does their output still conform to what we expect as output?

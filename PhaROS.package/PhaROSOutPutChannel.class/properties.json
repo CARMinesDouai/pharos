@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSChannel",
+	"category" : "PhaROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"subscribers",
+		"mutex",
+		"xmlurl"
+	],
+	"name" : "PhaROSOutPutChannel",
+	"type" : "normal"
+}

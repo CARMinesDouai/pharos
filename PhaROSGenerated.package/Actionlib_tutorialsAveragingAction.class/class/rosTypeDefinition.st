@@ -1,0 +1,6 @@
+as yet unclassified
+rosTypeDefinition 
+^' actionlib_tutorials/AveragingActionGoal action_goal
+ actionlib_tutorials/AveragingActionResult action_result
+ actionlib_tutorials/AveragingActionFeedback action_feedback
+'

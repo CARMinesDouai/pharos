@@ -1,0 +1,7 @@
+test-geometry_msgs/
+testgeometry_msgs_QuaternionStamped
+	| definition | 
+	definition :=  browser type: 'geometry_msgs/QuaternionStamped'. 
+	self assert: definition typeName = 'geometry_msgs/QuaternionStamped'.
+	self assert: definition md5Sum = 'e57f1e547e0e1fd13504588ffc8334e2'.
+		

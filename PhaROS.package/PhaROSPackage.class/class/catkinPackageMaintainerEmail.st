@@ -1,0 +1,3 @@
+meta infos
+catkinPackageMaintainerEmail
+	^ self catkinPackageAuthorEmail

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSBaseCase",
+	"category" : "PhaROSTestROS-Kernel-Graphical",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhaROSTopicTests",
+	"type" : "normal"
+}

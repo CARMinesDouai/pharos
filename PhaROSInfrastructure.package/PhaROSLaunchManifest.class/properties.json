@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 6/11/2013 20:44",
+	"super" : "Object",
+	"category" : "PhaROSInfrastructure-ROSLaunch",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhaROSLaunchManifest",
+	"type" : "normal"
+}

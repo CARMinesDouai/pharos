@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSPackage",
+	"category" : "PhaROS-PackageExample",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"messageCount"
+	],
+	"name" : "PhaROSExamplePackage",
+	"type" : "normal"
+}

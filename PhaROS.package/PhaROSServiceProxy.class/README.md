@@ -1,0 +1,1 @@
+A RoStServiceProxy is a placeholder for a service provided by some node. Usually, you don't create directly service proxies. Instead, they are obtained from the master node (see RoStMasterProxy>>#lookupService: serviceName)

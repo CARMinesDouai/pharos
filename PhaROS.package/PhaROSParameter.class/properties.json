@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"value",
+		"transport",
+		"relatedClass",
+		"callbacks"
+	],
+	"name" : "PhaROSParameter",
+	"type" : "normal"
+}

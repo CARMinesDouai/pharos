@@ -1,0 +1,6 @@
+as yet unclassified
+rosTypeDefinition 
+^' control_msgs/SingleJointPositionActionGoal action_goal
+ control_msgs/SingleJointPositionActionResult action_result
+ control_msgs/SingleJointPositionActionFeedback action_feedback
+'

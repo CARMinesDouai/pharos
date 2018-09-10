@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSNodeletsLocalizer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pose",
+		"id"
+	],
+	"name" : "PhaROSLocalizerMeasure",
+	"type" : "normal"
+}

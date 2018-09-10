@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSNodeletsLocalizer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"callback",
+		"process",
+		"localizer",
+		"robotFrame",
+		"rate"
+	],
+	"name" : "PhaROSLocalizerTFSensor",
+	"type" : "normal"
+}

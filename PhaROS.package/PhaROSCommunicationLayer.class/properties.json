@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROS-Kernel-InternalNodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"xml",
+		"tcp",
+		"ip",
+		"transport",
+		"server"
+	],
+	"name" : "PhaROSCommunicationLayer",
+	"type" : "normal"
+}

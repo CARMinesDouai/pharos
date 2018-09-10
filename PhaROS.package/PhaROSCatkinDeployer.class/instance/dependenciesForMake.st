@@ -1,0 +1,4 @@
+generating - CMakeListsTxt
+dependenciesForMake
+	^ dependencies 
+	

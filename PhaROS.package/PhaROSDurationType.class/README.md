@@ -1,0 +1,1 @@
+A PhaROSDurationType is type that represents interval  of time

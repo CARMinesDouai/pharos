@@ -1,0 +1,6 @@
+as yet unclassified
+rosTypeDefinition 
+^' control_msgs/GripperCommandActionGoal action_goal
+ control_msgs/GripperCommandActionResult action_result
+ control_msgs/GripperCommandActionFeedback action_feedback
+'

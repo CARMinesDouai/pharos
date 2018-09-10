@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "pharos 5/3/2015 07:58",
+	"super" : "PhaROSNode",
+	"category" : "PhaROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"transport"
+	],
+	"name" : "PhaROSInternalNode",
+	"type" : "normal"
+}

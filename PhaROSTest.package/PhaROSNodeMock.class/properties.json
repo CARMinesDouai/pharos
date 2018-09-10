@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSTest-TopicHandlers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"received",
+		"topic",
+		"type",
+		"flux",
+		"messageBlock"
+	],
+	"name" : "PhaROSNodeMock",
+	"type" : "normal"
+}

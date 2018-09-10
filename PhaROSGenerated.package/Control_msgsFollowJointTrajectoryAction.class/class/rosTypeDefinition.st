@@ -1,0 +1,6 @@
+as yet unclassified
+rosTypeDefinition 
+^' control_msgs/FollowJointTrajectoryActionGoal action_goal
+ control_msgs/FollowJointTrajectoryActionResult action_result
+ control_msgs/FollowJointTrajectoryActionFeedback action_feedback
+'

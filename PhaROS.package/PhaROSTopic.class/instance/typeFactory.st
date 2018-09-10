@@ -1,0 +1,3 @@
+construction
+typeFactory
+	^ typeFactory

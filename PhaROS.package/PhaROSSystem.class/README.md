@@ -1,0 +1,1 @@
+Globals or contants for the whole PhaROS system represented by this Pharo image

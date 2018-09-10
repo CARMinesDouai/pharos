@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSTopicFlux",
+	"category" : "PhaROS-TopicHandlers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhaROSTopicFluxDebug",
+	"type" : "normal"
+}

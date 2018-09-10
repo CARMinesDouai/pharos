@@ -1,0 +1,4 @@
+tests
+testUnserialize
+				^ super baseUnserialize.
+		

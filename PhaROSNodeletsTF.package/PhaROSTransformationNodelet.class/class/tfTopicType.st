@@ -1,0 +1,3 @@
+types
+tfTopicType
+	^ 'tf/tfMessage'

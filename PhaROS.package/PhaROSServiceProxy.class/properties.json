@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PhaROS-Network-XmlRpc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"uri",
+		"serviceName",
+		"md5sum",
+		"requestType",
+		"responseType"
+	],
+	"name" : "PhaROSServiceProxy",
+	"type" : "normal"
+}

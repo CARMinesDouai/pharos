@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/22/2013 14:58",
+	"super" : "PhaROSExternalNode",
+	"category" : "PhaROS-Kernel-ExternalNodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nodeDataSender"
+	],
+	"name" : "PhaROSExternalSubscriberNode",
+	"type" : "normal"
+}
