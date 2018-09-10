@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/22/2013 14:43",
+	"super" : "Object",
+	"category" : "PhaROS-TopicHandlers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"node",
+		"topic"
+	],
+	"name" : "PhaROSTopicPublisher",
+	"type" : "normal"
+}

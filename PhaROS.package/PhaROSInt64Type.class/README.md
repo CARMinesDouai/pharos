@@ -1,0 +1,1 @@
+A PhaROSInt64Type  is a 64 bits represetnation of int 

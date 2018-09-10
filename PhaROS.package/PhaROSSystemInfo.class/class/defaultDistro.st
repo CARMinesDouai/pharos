@@ -1,0 +1,3 @@
+distro
+defaultDistro
+	^ 'kinetic'

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/23/2013 10:58",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsMoveBase",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"simpleGoal",
+		"client"
+	],
+	"name" : "PhaROSMoveBaseNodelet",
+	"type" : "normal"
+}

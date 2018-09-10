@@ -1,0 +1,5 @@
+as yet unclassified
+rosTypeDefinition 
+^' float32 interior_angle
+ float32 apothem
+'

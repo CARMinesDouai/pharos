@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "TEquality classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"timestamp"
+	],
+	"name" : "PhaROSTimestamp",
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"traitcomposition" : "TEquality",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "PhaROS-Types-Basic"
+}

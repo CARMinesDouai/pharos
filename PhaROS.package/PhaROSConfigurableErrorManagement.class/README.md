@@ -1,0 +1,1 @@
+This object defines a collection of callbacks for error management

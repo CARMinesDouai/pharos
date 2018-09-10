@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "PhaROSTest-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"validValues",
+		"invalidValues"
+	],
+	"name" : "PhaROSTypeMarshallingBaseTest",
+	"type" : "normal"
+}

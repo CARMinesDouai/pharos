@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "PhaROSType",
+	"category" : "PhaROS-Types-Basic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"relatedClass",
+		"relatedType"
+	],
+	"name" : "PhaROSCollectionType",
+	"type" : "normal"
+}

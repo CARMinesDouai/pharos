@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSBaseCase",
+	"category" : "PhaROSTestROS-Kernel-Graphical",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"node",
+		"commandVelocity"
+	],
+	"name" : "PhaROSNodeTest",
+	"type" : "normal"
+}

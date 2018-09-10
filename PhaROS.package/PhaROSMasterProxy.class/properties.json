@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "PhaROSProxy",
+	"category" : "PhaROS-Network-XmlRpc",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"MasterInstances"
+	],
+	"instvars" : [
+		"callerId",
+		"tcpserver"
+	],
+	"name" : "PhaROSMasterProxy",
+	"type" : "normal"
+}

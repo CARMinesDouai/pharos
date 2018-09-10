@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "pharos 10/30/2014 15:25",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsOdometry",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"previousTime",
+		"previousPose",
+		"poseDifference",
+		"odometryTopicPublisher",
+		"robotName"
+	],
+	"name" : "PhaROSOdometryNodelet",
+	"type" : "normal"
+}

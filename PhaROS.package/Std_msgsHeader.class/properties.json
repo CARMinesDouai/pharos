@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSValue",
+	"category" : "PhaROS-Types",
+	"classinstvars" : [
+		"mutex",
+		"currentId"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Std_msgsHeader",
+	"type" : "normal"
+}

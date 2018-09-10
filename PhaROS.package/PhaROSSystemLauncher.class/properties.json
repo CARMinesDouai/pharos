@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PhaROS-Util",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"masterProcess",
+		"turtleProcess",
+		"gmappingProcess"
+	],
+	"name" : "PhaROSSystemLauncher",
+	"type" : "normal"
+}

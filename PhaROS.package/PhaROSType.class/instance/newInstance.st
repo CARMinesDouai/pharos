@@ -1,0 +1,3 @@
+accessing
+newInstance
+	^ Array new.

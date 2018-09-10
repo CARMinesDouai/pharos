@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSTopicMock",
+	"category" : "PhaROSNodeletsMerger-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sendReceived"
+	],
+	"name" : "PhaROSTopicPublisherMock",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "PhaROS-Types-DSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"TypeCreationOrder"
+	],
+	"instvars" : [
+		"name",
+		"definition",
+		"package"
+	],
+	"name" : "PhaROSMessageTypeBuilder",
+	"type" : "normal"
+}

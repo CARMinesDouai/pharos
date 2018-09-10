@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "PhaROSType",
+	"category" : "PhaROS-Types-Basic",
+	"classinstvars" : [
+		"types"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"typeName",
+		"typeDefinition",
+		"relatedClass",
+		"md5Sum",
+		"constants"
+	],
+	"name" : "PhaROSCompositeType",
+	"type" : "normal"
+}

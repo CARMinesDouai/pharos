@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "PhaROSItemDefinition",
+	"category" : "PhaROS-Types-DSL",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value"
+	],
+	"name" : "PhaROSConstantDefinition",
+	"type" : "normal"
+}

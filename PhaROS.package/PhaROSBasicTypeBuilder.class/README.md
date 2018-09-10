@@ -1,0 +1,1 @@
+This builder is a polimorfic object that allow us to have a builder that do not build, for the basic types, as Uint, etc.

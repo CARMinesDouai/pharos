@@ -1,0 +1,3 @@
+*PhaROS
+isTimeOut
+	^ false.

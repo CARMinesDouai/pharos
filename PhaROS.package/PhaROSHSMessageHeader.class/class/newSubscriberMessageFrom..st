@@ -1,0 +1,3 @@
+instance creation decoding
+newSubscriberMessageFrom: aStream
+	^PhaROSHSMessageDecoder decodeSubscriberMessage: aStream.

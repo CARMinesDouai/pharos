@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSSpaceEvent",
+	"category" : "PhaROSNodeletsLocalizer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhaROSOneTimeSpaceEvent",
+	"type" : "normal"
+}

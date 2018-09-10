@@ -1,0 +1,17 @@
+{
+	"classtraitcomposition" : "TEquality classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"topicPublishersDict",
+		"topicSubscribersDict",
+		"serviceProvidersDict"
+	],
+	"name" : "PhaROSSystemState",
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"traitcomposition" : "TEquality",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "PhaROS-Kernel"
+}

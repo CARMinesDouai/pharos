@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/22/2013 17:10",
+	"super" : "Object",
+	"category" : "PhaROS-Nodelets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"controller"
+	],
+	"name" : "PhaROSNodelet",
+	"type" : "normal"
+}

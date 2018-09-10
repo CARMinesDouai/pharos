@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsPoseTracker",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastEntityRecorded"
+	],
+	"name" : "PhaROSPoseTrackerNodelet",
+	"type" : "normal"
+}

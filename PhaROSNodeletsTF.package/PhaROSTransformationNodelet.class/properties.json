@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/23/2013 11:43",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsTF",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tfWriter",
+		"framesContainer",
+		"tfInTopic"
+	],
+	"name" : "PhaROSTransformationNodelet",
+	"type" : "normal"
+}

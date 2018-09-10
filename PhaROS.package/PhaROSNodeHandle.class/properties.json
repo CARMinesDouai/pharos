@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 4/24/2013 10:32",
+	"super" : "PhaROSDelegateNode",
+	"category" : "PhaROS-Kernel-InternalNodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"topicHandle",
+		"subscribingHandle"
+	],
+	"name" : "PhaROSNodeHandle",
+	"type" : "normal"
+}

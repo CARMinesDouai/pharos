@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "PhaROSTest-Encoding",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"decoder"
+	],
+	"name" : "PhaROSDecoderTests",
+	"type" : "normal"
+}

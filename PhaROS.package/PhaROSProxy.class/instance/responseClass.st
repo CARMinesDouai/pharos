@@ -1,0 +1,3 @@
+invoking
+responseClass
+	^PhaROSXmlRpcResponse

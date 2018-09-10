@@ -1,0 +1,1 @@
+A PhaROSStringType is a variable length string type

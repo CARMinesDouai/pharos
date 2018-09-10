@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsRPC",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"ids",
+		"path",
+		"currentId",
+		"currentGoal",
+		"isError",
+		"status"
+	],
+	"name" : "PhaROSRPCNodelet",
+	"type" : "normal"
+}

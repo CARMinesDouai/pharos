@@ -1,0 +1,3 @@
+construction
+dataTypeSize
+	^ 4

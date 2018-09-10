@@ -1,0 +1,3 @@
+stdio
+stdin
+	^  FileStream stdin

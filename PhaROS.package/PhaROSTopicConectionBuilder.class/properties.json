@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 7/22/2013 16:10",
+	"super" : "Object",
+	"category" : "PhaROS-TopicHandlers",
+	"classinstvars" : [
+		"typeID"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"node",
+		"typeID",
+		"callback",
+		"topicName",
+		"adapter",
+		"when",
+		"forDebug",
+		"errors"
+	],
+	"name" : "PhaROSTopicConectionBuilder",
+	"type" : "normal"
+}

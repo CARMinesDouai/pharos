@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSBlockNode",
+	"category" : "PhaROSTestROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expectedSystemState",
+		"subscriberBehavior"
+	],
+	"name" : "PhaROSTestNode",
+	"type" : "normal"
+}

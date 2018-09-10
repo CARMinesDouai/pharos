@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROS-NodeControllers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"controller",
+		"nodelets"
+	],
+	"name" : "PhaROSNodeletContainer",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+actions
+uninstall
+	instance := nil.

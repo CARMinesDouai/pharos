@@ -1,0 +1,3 @@
+pseudo-dsl
+alterName
+	^ #FixedArray

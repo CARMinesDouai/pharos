@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSValue",
+	"category" : "PhaROSGenerated",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Rocon_service_pair_msgsTestiesResponse",
+	"type" : "normal"
+}

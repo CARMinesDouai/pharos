@@ -1,0 +1,3 @@
+serialize
+dataTypeSize 
+	^ 1

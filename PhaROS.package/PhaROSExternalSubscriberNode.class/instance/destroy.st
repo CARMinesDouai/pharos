@@ -1,0 +1,3 @@
+service
+destroy
+	self stop.

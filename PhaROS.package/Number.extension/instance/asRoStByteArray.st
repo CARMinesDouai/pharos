@@ -1,0 +1,3 @@
+*PhaROS
+asRoStByteArray
+	^{ self }.

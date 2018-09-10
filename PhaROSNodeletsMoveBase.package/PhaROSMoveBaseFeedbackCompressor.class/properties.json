@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "pharos 11/3/2014 18:12",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsMoveBase",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastFeedback",
+		"feedbackSubscribedTopic",
+		"feedbackPublishingTopic"
+	],
+	"name" : "PhaROSMoveBaseFeedbackCompressor",
+	"type" : "normal"
+}

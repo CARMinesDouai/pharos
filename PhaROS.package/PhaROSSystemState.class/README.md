@@ -1,0 +1,1 @@
+It representates the state of the ROS system.

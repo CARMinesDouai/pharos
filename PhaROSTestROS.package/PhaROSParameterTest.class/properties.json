@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSBaseCase",
+	"category" : "PhaROSTestROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"service",
+		"loggers",
+		"node"
+	],
+	"name" : "PhaROSParameterTest",
+	"type" : "normal"
+}

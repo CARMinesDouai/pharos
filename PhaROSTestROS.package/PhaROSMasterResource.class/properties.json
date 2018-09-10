@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TestResource",
+	"category" : "PhaROSTestROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PhaROSMasterResource",
+	"type" : "normal"
+}

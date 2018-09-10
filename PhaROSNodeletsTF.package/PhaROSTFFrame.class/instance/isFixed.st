@@ -1,0 +1,3 @@
+accessing
+isFixed
+	^ parent isNil.

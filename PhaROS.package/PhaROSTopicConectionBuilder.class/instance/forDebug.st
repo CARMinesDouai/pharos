@@ -1,0 +1,3 @@
+setting
+forDebug
+	forDebug := true.

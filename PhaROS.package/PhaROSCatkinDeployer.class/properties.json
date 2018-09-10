@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "LucFabresse 1/25/2015 07:09",
+	"super" : "Object",
+	"category" : "PhaROS-Package",
+	"classinstvars" : [
+		"instance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"deployedTypes",
+		"dependencies",
+		"deployedServices",
+		"phaROSPackageClass"
+	],
+	"name" : "PhaROSCatkinDeployer",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "TEquality classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"header"
+	],
+	"name" : "PhaROSHSMessageHeader",
+	"commentStamp" : "SantiagoBragagnolo 5/15/2013 12:27",
+	"super" : "Object",
+	"traitcomposition" : "TEquality",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "PhaROS-Network-Tcp"
+}

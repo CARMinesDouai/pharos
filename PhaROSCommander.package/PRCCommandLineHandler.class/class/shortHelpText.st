@@ -1,0 +1,3 @@
+help
+shortHelpText
+	^ self subclassResponsibility 

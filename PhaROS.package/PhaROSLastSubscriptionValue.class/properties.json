@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "pharos 1/23/2015 18:09",
+	"super" : "Object",
+	"category" : "PhaROS-Util",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value"
+	],
+	"name" : "PhaROSLastSubscriptionValue",
+	"type" : "normal"
+}

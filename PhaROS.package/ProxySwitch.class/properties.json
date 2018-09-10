@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PabloEstefo 7/7/2014 15:20",
+	"super" : "Object",
+	"category" : "PhaROS-Util",
+	"classinstvars" : [
+		"isOn"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ProxySwitch",
+	"type" : "normal"
+}

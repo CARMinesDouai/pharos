@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "PhaROSTest-Network-Tcp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expectedMessage"
+	],
+	"name" : "PhaROSTopicTcpMessageDecodingTest",
+	"type" : "normal"
+}

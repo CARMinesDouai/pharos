@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "pharos 10/20/2014 16:41",
+	"super" : "Object",
+	"category" : "PhaROS-Util",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance"
+	],
+	"instvars" : [
+		"distro",
+		"path",
+		"masterProcess"
+	],
+	"name" : "PhaROSSystemInfo",
+	"type" : "normal"
+}

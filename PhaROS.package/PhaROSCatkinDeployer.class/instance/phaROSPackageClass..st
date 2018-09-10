@@ -1,0 +1,3 @@
+accessing
+phaROSPackageClass: aPhaROSPackageClass
+	phaROSPackageClass := aPhaROSPackageClass

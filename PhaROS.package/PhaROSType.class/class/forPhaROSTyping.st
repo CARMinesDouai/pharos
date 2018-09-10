@@ -1,0 +1,3 @@
+private
+forPhaROSTyping
+	^ self

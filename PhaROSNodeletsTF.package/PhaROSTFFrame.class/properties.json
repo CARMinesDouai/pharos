@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "PhaROSNodeletsTF",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"pose",
+		"stamp",
+		"parent",
+		"broadcaster"
+	],
+	"name" : "PhaROSTFFrame",
+	"type" : "normal"
+}

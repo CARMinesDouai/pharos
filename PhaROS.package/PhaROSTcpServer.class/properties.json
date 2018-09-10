@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 5/15/2013 12:32",
+	"super" : "Object",
+	"category" : "PhaROS-Network-Tcp",
+	"classinstvars" : [
+		"RoStTcpServers"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"owner",
+		"server"
+	],
+	"name" : "PhaROSTcpServer",
+	"type" : "normal"
+}

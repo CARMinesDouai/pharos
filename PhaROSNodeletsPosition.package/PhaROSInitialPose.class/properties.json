@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PhaROSStaticNodelet",
+	"category" : "PhaROSNodeletsPosition",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"initialPoseOut",
+		"orientationOut"
+	],
+	"name" : "PhaROSInitialPose",
+	"type" : "normal"
+}

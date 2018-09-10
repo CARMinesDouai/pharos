@@ -1,0 +1,5 @@
+as yet unclassified
+rosTypeDefinition 
+^' int32 the_result
+ bool is_simple_server
+'

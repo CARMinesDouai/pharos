@@ -1,0 +1,1 @@
+A PhaROSInt32Type  is a 32 bits represetnation of int 

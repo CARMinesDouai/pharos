@@ -1,0 +1,1 @@
+A PhaROSInt8Type i is a 8 bits represetnation of int. Also used as byte or char.

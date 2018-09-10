@@ -1,0 +1,3 @@
+service
+stop
+	master stop.

@@ -1,0 +1,3 @@
+proto
+isServiceType
+	^ false

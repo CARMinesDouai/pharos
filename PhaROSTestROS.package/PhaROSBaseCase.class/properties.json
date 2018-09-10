@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "PhaROSTestROS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"masterUrl",
+		"master",
+		"process"
+	],
+	"name" : "PhaROSBaseCase",
+	"type" : "normal"
+}

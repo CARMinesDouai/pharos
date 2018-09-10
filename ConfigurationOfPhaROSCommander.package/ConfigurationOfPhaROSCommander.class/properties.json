@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "LucFabresse 6/6/2014 15:51",
+	"super" : "Object",
+	"category" : "ConfigurationOfPhaROSCommander",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LastVersionLoad"
+	],
+	"instvars" : [
+		"project"
+	],
+	"name" : "ConfigurationOfPhaROSCommander",
+	"type" : "normal"
+}
